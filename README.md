@@ -2,10 +2,6 @@
 
 ShlinkTelegramBot is a Telegram bot that provides a convenient way to shorten URLs right within your Telegram chat. Send a long URL and receive a shortened version in seconds.
 
-## Getting Started
-
-To use ShlinkTelegramBot, you need to run it as a service, which you can easily set up using Docker and `docker-compose`.
-
 ### Prerequisites
 
 - Docker
